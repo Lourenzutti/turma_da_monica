@@ -1,2 +1,2 @@
 def square(x: float) -> float:
-    return x * x
+    return x ** 3
