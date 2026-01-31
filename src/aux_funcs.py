@@ -1,2 +1,5 @@
 def square(x: float) -> float:
     return x * x
+
+def cube(x: float) -> float:
+    return x * x * x
