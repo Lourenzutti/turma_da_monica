@@ -3,5 +3,5 @@ function add(a: number, b: number) {
 }
 
 function menos(a: number, b: number) {
-  return a - b;
+  return a + b;
 }
