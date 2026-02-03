@@ -5,3 +5,7 @@ function add(a: number, b: number) {
 function menos(a: number, b: number, c: number) {
   return a - b - c;
 }
+
+function helloWorld() {
+  return "Hello World";
+}
